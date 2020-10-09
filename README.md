@@ -1,5 +1,9 @@
 # Data Science & Machine Learning
 
+![](https://img.shields.io/badge/Python-red)
+![](https://img.shields.io/badge/Pandas-green)
+![](https://img.shields.io/badge/Matplotlib-blue)
+
 >__MachineLearning__
   * [Common Mistakes](https://elitedatascience.com/beginner-mistakes)
   * [Projects](https://elitedatascience.com/machine-learning-projects-for-beginners)
